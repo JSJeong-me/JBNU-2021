@@ -6,3 +6,14 @@
 
 
 ### Machine Data
+
+### data science life cycle
+![CRISP-DM](https://user-images.githubusercontent.com/54794815/125336469-c845b100-e388-11eb-9f5c-fad5f13cc5db.png)
+
+
+
+
+### Preprocessing
+### Data Modeling
+### ML Alogorithms
+### ML Frameworks
