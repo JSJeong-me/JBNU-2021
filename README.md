@@ -13,5 +13,7 @@
 
 ### Intro of BigData Analysis, numpy, pandas - 7월 22일 (목요일)
 ### Statistics - 7월 23일 (금요일)
-### Predictive Analysis 7월 26, 27, 28, 29일 (월, 화, 수, 목요일)
-### Uncertainty - 7월 30일 (금요일)
+### Preprocessing - 7월 26일 (월요일)
+### Predictive Analysis / univariate -7월 27 (화요일)
+### Predictive Analysis / multivariate -7월 28, 29일 (수/목요일)
+### Feature Selections / Uncertainty - 7월 30일 (금요일)
