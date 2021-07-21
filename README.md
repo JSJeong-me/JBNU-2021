@@ -11,11 +11,7 @@
 ### data science life cycle
 ![CRISP-DM](https://user-images.githubusercontent.com/54794815/125336469-c845b100-e388-11eb-9f5c-fad5f13cc5db.png)
 
-
-
-
-### Intro of BigData Analysis - 7월 22일 (목요일)
-### Big Data analysis methodology - 7월 23일 (금요일)
-### Statistics - 7월 26일 (월요일)
-### Predictive Analysis 7월 27, 28, 29, 30일 (월요일)
+### Intro of BigData Analysis, numpy, pandas - 7월 22일 (목요일)
+### Statistics - 7월 23일 (금요일)
+### Predictive Analysis 7월 26, 27, 28, 29일 (월, 화, 수, 목요일)
 ### Uncertainty - 7월 30일 (금요일)
