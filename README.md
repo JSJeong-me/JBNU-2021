@@ -5,15 +5,16 @@
   - 강의장소: 전북대학교 인문대학 2호관 412호
   - 강    사: 정 준 수  한성대학교/지식서비스&컨설팅학과
 
+### - Intro of BigData Analysis, numpy, pandas - 7월 22일 (목요일)
+### - Statistics - 7월 23일 (금요일)
+### - Preprocessing - 7월 26일 (월요일)
+### - Predictive Analysis / univariate -7월 27 (화요일)
+### - Predictive Analysis / multivariate -7월 28, 29일 (수/목요일)
+### - Feature Selections / Uncertainty - 7월 30일 (금요일)
 
 ### Machine Data
 
 ### data science life cycle
 ![CRISP-DM](https://user-images.githubusercontent.com/54794815/125336469-c845b100-e388-11eb-9f5c-fad5f13cc5db.png)
 
-### Intro of BigData Analysis, numpy, pandas - 7월 22일 (목요일)
-### Statistics - 7월 23일 (금요일)
-### Preprocessing - 7월 26일 (월요일)
-### Predictive Analysis / univariate -7월 27 (화요일)
-### Predictive Analysis / multivariate -7월 28, 29일 (수/목요일)
-### Feature Selections / Uncertainty - 7월 30일 (금요일)
+
