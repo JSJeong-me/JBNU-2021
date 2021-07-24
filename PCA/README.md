@@ -1,4 +1,1 @@
-### PCA
-
-### 주성분 분석은 특성들이 통계적으로 상관관계가 없도록 데이터셋을 회전시키는 기술
-
+### Principal Component Analysis (PCA)
